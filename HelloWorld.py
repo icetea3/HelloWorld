@@ -6,3 +6,4 @@ print(array1)
 array2 = var1*array1
 print(array2)
 print('Testing 4 Branching in PyCharm ...')
+print('Testing 5 Updating in PyCharm ...')
